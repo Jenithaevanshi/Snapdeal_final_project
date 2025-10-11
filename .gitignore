@@ -1,0 +1,5 @@
+# Ignore temporary and system files
+*.log
+__pycache__/
+node_modules/
+.vscode/
